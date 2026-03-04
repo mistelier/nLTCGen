@@ -18,9 +18,6 @@ macOS 用 LTC（Linear Timecode）ジェネレーターアプリケーション�
 | 25 fps | - |
 | 29.97 fps | 対応 |
 | 30 fps | - |
-| 48 fps | - |
-| 50 fps | - |
-| 60 fps | - |
 
 ### オーディオ出力
 
