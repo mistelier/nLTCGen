@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>nLTCGen</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Mon, 16 Nov 2026 23:08:25 +0900</pubDate>
+            <link>https://github.com/mistelier/nLTCGen</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# nLTCGen 1.2
+
+## 変更内容
+
+- Sparkleによる自動アップデートに対応しました。24時間ごとの自動確認と、アプリメニューからの手動確認を利用できます。
+- 音声デバイス情報の取得処理を改善しました。
+
+## 動作環境
+
+- macOS 14.0以降
+
+> nLTCGen 1.1以前には自動アップデート機能が含まれないため、1.2だけは手動でインストールしてください。
+]]></description>
+            <enclosure url="https://github.com/mistelier/nLTCGen/releases/download/1.2/nLTCGen.dmg" length="1798434" type="application/octet-stream" sparkle:edSignature="sryh3J3bLrLcKF/YWppib8dc4N+IkaHqdDxrrMMkaVq6/A1x3/B3wwzmiG65sZSoW8M/GmjCzIeOTfuEopgpDQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: NwK8HoNe71Twb8/7o3iOoyQ//kcGR0MHBcB7Q2QOz/IKCCKzFXf/+UqCQWAo4I8B7LSHC3jYXqrCVuNrQduECA==
+length: 1613
+-->
