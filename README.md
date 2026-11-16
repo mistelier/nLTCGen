@@ -44,4 +44,4 @@ macOS 用 LTC（Linear Timecode）ジェネレーターアプリケーション�
 
 ## 動作要件
 
-- **macOS** 15.0（Sequoia）以降
+- **macOS** 14.0（Sonoma）以降
